@@ -42,6 +42,9 @@ global-tech-layoffs/
 
 ## Key Insights
 * The _**industry**_ with the most mental health conditions for remote workers globally is _**IT**_. Whereas, the _**industry**_ with the least mental health conditions for remote workers globally is _**Finance**_
+
 * The _**job role**_ with the most mental health conditions for remote workers globally is _**Data Scientist**_. Whereas, the _**job role**_ with the least mental health conditions for remote workers globally is _**Marketing**_
+
 * The continent with the most mental health conditinos for remote workers is _**Europe**_. Whereas, the continent with the least mental health conditinos for remote workers is _**North America**_
+
 * _**Anxiety**_ is the most common mental health condition, while _**depression**_ is the least common mental health condition
