@@ -36,6 +36,8 @@ remote-work-mental-health/
 ├── images/               
 │   └── remote_work_mental_health_dashboard.png                 # Tableau dashboard image
 │
+├── .gitattributes                                              # SQL repository language 
+│
 └── README.md                                                   # Project overview
 ```
 ## Tableau Dashboard
