@@ -22,7 +22,7 @@ The data was sourced from Kaggle.com and contains:
 
 ## Project Structure
 ```
-global-tech-layoffs/
+remote-work-mental-health/
 │
 ├── data/                
 │   └── Impact_of_Remote_Work_on_Mental_Health.csv              # Original dataset
@@ -33,12 +33,15 @@ global-tech-layoffs/
 ├── tableau/               
 │   └── Remote Work Mental Health.twbx                          # Tableau dashboard
 │
+├── images/               
+│   └── remote_work_mental_health_dashboard.png                 # Tableau dashboard image
+│
 └── README.md                                                   # Project overview
 ```
 ## Tableau Dashboard
 [View Dashboard on Tableau Public](https://public.tableau.com/views/RemoteWorkMentalHealth_17579593786790/hor_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![](https://github.com/Kaileyv/remote-work-mental-health/blob/main/remote_work_mental_health_dashboard.png)
+![](https://github.com/Kaileyv/remote-work-mental-health/blob/main/images/remote_work_mental_health_dashboard.png)
 
 ## Key Insights
 * The _**industry**_ with the most mental health conditions for remote workers globally is _**IT**_. Whereas, the _**industry**_ with the least mental health conditions for remote workers globally is _**Finance**_
