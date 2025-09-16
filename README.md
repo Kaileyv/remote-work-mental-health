@@ -36,7 +36,7 @@ global-tech-layoffs/
 └── README.md                                                   # Project overview
 ```
 ## Tableau Dashboard
-[View Tableau Dashboard](https://public.tableau.com/views/RemoteWorkMentalHealth_17579593786790/hor_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Dashboard on Tableau Public](https://public.tableau.com/views/RemoteWorkMentalHealth_17579593786790/hor_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![](https://github.com/Kaileyv/remote-work-mental-health/blob/main/remote_work_mental_health_dashboard.png)
 
